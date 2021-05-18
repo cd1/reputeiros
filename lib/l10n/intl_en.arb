@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+
+  "title": "Reputeiros",
+
+  "candidatesGridTitle": "Presidential candidates",
+  "noCandidateNewsMessage": "There are no news about this candidate.",
+  "noApprovalLevelValue": "-",
+
+  "candidatePartyInfo": "Party: {party}",
+  "candidateApprovalLevelInfo": "Approval level: {level}",
+
+  "openNewsUrlError": "Couldn't open the news link.",
+
+  "likeButtonTooltip": "Like",
+  "dislikeButtonTooltip": "Dislike",
+  "commentsButtonText": "Comments ({count})",
+  "reportFakeTooltip": "Report fake"
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "pt",
+
+  "title": "Reputeiros",
+
+  "candidatesGridTitle": "Candidatos à presidência",
+  "noCandidateNewsMessage": "Não existem notícias sobre esse candidato.",
+  "noApprovalLevelValue": "-",
+
+  "candidatePartyInfo": "Partido: {party}",
+  "candidateApprovalLevelInfo": "Nível de aprovação: {level}",
+
+  "openNewsUrlError": "Não foi possível abrir o link da notícia.",
+
+  "likeButtonTooltip": "Curtir",
+  "dislikeButtonTooltip": "Descurtir",
+  "commentsButtonText": "Comentários ({count})",
+  "reportFakeTooltip": "Reportar fake"
+}
